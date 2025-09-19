@@ -1,3 +1,8 @@
+# Clone this repository in .config/
+```bash
+git clone git@github.com:jc-olalla/my_nvim_config.git ~/.config/nvim
+```
+
 # Download and install nvm
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
